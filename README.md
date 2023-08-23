@@ -8,7 +8,7 @@ You can also connect with me on [LinkedIn]( https://www.linkedin.com/in/zeed-alm
 
 ## Project Results
 
-To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/app-reviews). Alternatively, you can [click here](https://github.com/YourGitHubUsername/YourRepositoryName) to access Part 1, [click here](https://github.com/YourGitHubUsername/YourRepositoryName) to access Part 2, [click here](https://github.com/YourGitHubUsername/YourRepositoryName) to access the Part 3 and you can [click here](https://github.com/YourGitHubUsername/YourRepositoryName) to access the Part 4 on GitHub.
+To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/app-reviews). Alternatively, you can [click here](https://github.com/Zeed-Almelhem/app-reviews-sentiment-topic/blob/main/App_Reviews_SA%26TM%20-%20Part%201.ipynb) to access Part 1, [click here](https://github.com/Zeed-Almelhem/app-reviews-sentiment-topic/blob/main/App_Reviews_SA%26TM%20-%20Part%202.ipynb) to access Part 2, [click here](https://github.com/Zeed-Almelhem/app-reviews-sentiment-topic/blob/main/App_Reviews_SA%26TM%20-%20Part%203.ipynb) to access the Part 3 and you can [click here](https://github.com/Zeed-Almelhem/app-reviews-sentiment-topic/blob/main/App_Reviews_SA%26TM%20-%20Part%204.ipynb) to access the Part 4 on GitHub.
 
 ----
 
